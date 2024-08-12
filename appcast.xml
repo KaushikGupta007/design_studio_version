@@ -2,8 +2,6 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Design Studio</title>
-    <link>https://technolancer.in</link>
-    <description>This feed provides information about the latest updates and releases for Design Studio.</description>
     <item>
       <title>Version 2.5.10</title>
       <description>New features, bug fixes, and performance improvements.</description>
