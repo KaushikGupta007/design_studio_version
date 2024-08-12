@@ -8,9 +8,8 @@
       <pubDate>Mon, 12 Aug 2024 12:00:00 GMT</pubDate>
       <sparkle:version>2.6.0</sparkle:version>
       <enclosure
-        url="https://your-server.com/downloads/myapp_v2.5.10.apk"
-        length="12345678"
-        type="application/vnd.android.package-archive" />
+        url="https://dezign-studio.web.app"
+      />
     </item>
   </channel>
 </rss>
