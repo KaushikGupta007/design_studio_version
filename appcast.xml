@@ -6,7 +6,11 @@
       <title>Version 2.6.0</title>
       <description>New features, bug fixes, and performance improvements.</description>
       <pubDate>Mon, 12 Aug 2024 12:00:00 GMT</pubDate>
-      <enclosure url="https://www.google.com" sparkle:version="2.6.0" sparkle:os="browser" />
+      <sparkle:version>2.6.0</sparkle:version>
+      <enclosure
+        url="https://your-server.com/downloads/myapp_v2.5.10.apk"
+        length="12345678"
+        type="application/vnd.android.package-archive" />
     </item>
   </channel>
 </rss>
