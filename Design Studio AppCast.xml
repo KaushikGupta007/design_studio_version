@@ -4,10 +4,10 @@
     <title>Design Studio</title>
     <item>
       <title>Version 2.6.0</title>
-      <description>New features, Bug fixes, and performance improvements.</description>
+      <description>New features, bug fixes, and performance improvements.</description>
       <pubDate>Mon, 12 Aug 2024 12:00:00 GMT</pubDate>
       <sparkle:version>2.6.0</sparkle:version>
-      <sparkle:criticalUpdate sparkle:version="2.6.0"></sparkle:criticalUpdate>
+      <sparkle:criticalUpdate>2.6.0</sparkle:criticalUpdate>
     </item>
   </channel>
 </rss>
