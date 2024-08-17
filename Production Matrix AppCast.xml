@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Production Matrix</title>
+    <item>
+      <title>Version 2.5.11</title>
+      <description>New features, bug fixes, and performance improvements.</description>
+      <pubDate>Mon, 12 Aug 2024 12:00:00 GMT</pubDate>
+      <sparkle:version>2.5.11</sparkle:version>
+    </item>
+  </channel>
+</rss>
