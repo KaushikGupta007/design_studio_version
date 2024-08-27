@@ -3,10 +3,13 @@
   <channel>
     <title>Bill Desk</title>
     <item>
-      <title>Version 2.5.14</title>
+      <title>Version 2.5.16</title>
       <description>Dynamic Day Book, Day Book on Dashboard, Bug Fixes</description>
-      <pubDate>Tue, 20 Aug 2024 12:00:00 GMT</pubDate>
-      <sparkle:version>2.5.14</sparkle:version>
+      <pubDate>Tue, 27 Aug 2024 12:00:00 GMT</pubDate>
+      <sparkle:version>2.5.16</sparkle:version>
+      <sparkle:tags>
+      <sparkle:criticalUpdate></sparkle:criticalUpdate>
+      </sparkle:tags>
     </item>
   </channel>
 </rss>
