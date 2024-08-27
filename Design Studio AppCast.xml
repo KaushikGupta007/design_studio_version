@@ -7,6 +7,9 @@
       <description>New features, Bug fixes, and Performance Improvements.</description>
       <pubDate>Mon, 27 Aug 2024 12:00:00 GMT</pubDate>
       <sparkle:version>2.5.16</sparkle:version>
+      <sparkle:tags>
+      <sparkle:criticalUpdate></sparkle:criticalUpdate>
+      </sparkle:tags>
     </item>
   </channel>
 </rss>
