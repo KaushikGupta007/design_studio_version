@@ -3,10 +3,10 @@
   <channel>
     <title>Design Studio</title>
     <item>
-      <title>Version 2.5.17</title>
+      <title>Version 2.5.18</title>
       <description>New features, Bug fixes, and Performance Improvements.</description>
-      <pubDate>Mon, 30 Aug 2024 12:00:00 GMT</pubDate>
-      <sparkle:version>2.5.17</sparkle:version>
+      <pubDate>Mon, 4 Sept 2024 12:00:00 GMT</pubDate>
+      <sparkle:version>2.5.18</sparkle:version>
     </item>
   </channel>
 </rss>
