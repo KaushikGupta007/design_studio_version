@@ -3,10 +3,10 @@
   <channel>
     <title>Design Studio</title>
     <item>
-      <title>Version 2.5.19</title>
-      <description>Recent files round off bug fix</description>
-      <pubDate>Tue, 10 Sept 2024 12:00:00 GMT</pubDate>
-      <sparkle:version>2.5.19</sparkle:version>
+      <title>Version 2.5.20</title>
+      <description>Challan wise report supplier total added</description>
+      <pubDate>Thu, 12 Sept 2024 12:00:00 GMT</pubDate>
+      <sparkle:version>2.5.20</sparkle:version>
     </item>
   </channel>
 </rss>
