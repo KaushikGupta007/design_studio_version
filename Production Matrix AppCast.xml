@@ -3,10 +3,10 @@
   <channel>
     <title>Production Matrix</title>
     <item>
-      <title>Version 2.5.21</title>
+      <title>Version 2.5.23</title>
       <description>Minor Changes</description>
-      <pubDate>Wed, 18 Sept 2024 12:00:00 GMT</pubDate>
-      <sparkle:version>2.5.21</sparkle:version>
+      <pubDate>Fri, 04 Oct 2024 12:00:00 GMT</pubDate>
+      <sparkle:version>2.5.23</sparkle:version>
     </item>
   </channel>
 </rss>
