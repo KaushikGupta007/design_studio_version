@@ -3,10 +3,10 @@
   <channel>
     <title>Bill Desk</title>
     <item>
-      <title>Version 2.5.23</title>
+      <title>Version 2.5.24</title>
       <description>Minor Updates</description>
       <pubDate>Fri, 04 Oct 2024 12:00:00 GMT</pubDate>
-      <sparkle:version>2.5.23</sparkle:version>
+      <sparkle:version>2.5.24</sparkle:version>
     </item>
   </channel>
 </rss>
