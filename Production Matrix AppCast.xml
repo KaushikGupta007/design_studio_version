@@ -3,13 +3,10 @@
   <channel>
     <title>Production Matrix</title>
     <item>
-      <title>Version 2.5.27</title>
+      <title>Version 2.5.28</title>
       <description>Bill setting Changes</description>
-      <pubDate>Tue, 22 Oct 2024 12:00:00 GMT</pubDate>
-      <sparkle:version>2.5.27</sparkle:version>
-      <sparkle:tags>
-        <sparkle:criticalUpdate></sparkle:criticalUpdate>
-      </sparkle:tags>
+      <pubDate>Wed, 23 Oct 2024 12:00:00 GMT</pubDate>
+      <sparkle:version>2.5.28</sparkle:version>
     </item>
   </channel>
 </rss>
