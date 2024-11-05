@@ -3,13 +3,10 @@
   <channel>
     <title>Bill Desk</title>
     <item>
-      <title>Version 2.5.29</title>
-      <description>Book wise settings</description>
-      <pubDate>Fri, 03 Nov 2024 12:00:00 GMT</pubDate>
-      <sparkle:version>2.5.29</sparkle:version>
-       <sparkle:tags>
-      <sparkle:criticalUpdate></sparkle:criticalUpdate>
-      </sparkle:tags>
+      <title>Version 2.5.30</title>
+      <description>Report Bug Fixes</description>
+      <pubDate>Tue, 05 Nov 2024 12:00:00 GMT</pubDate>
+      <sparkle:version>2.5.30</sparkle:version>
     </item>
   </channel>
 </rss>
