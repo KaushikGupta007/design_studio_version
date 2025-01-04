@@ -3,10 +3,10 @@
   <channel>
     <title>Design Studio</title>
     <item>
-      <title>Version 2.5.35</title>
-      <description>Minor Updates</description>
-      <pubDate>Mon, 02 Dec 2024 12:00:00 GMT</pubDate>
-      <sparkle:version>2.5.35</sparkle:version>
+      <title>Version 2.5.43</title>
+      <description>Database Region Changes</description>
+      <pubDate>Sun, 05 Jan 2024 04:00:00 IST</pubDate>
+      <sparkle:version>2.5.43</sparkle:version>
     </item>
   </channel>
 </rss>
