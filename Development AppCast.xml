@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Bill Desk</title>
+    <item>
+      <title>Version 2.5.43</title>
+      <description>Database Region Changes</description>
+      <pubDate>Sun, 05 Jan 2024 04:00:00 IST</pubDate>
+      <sparkle:version>2.5.43</sparkle:version>
+    </item>
+  </channel>
+</rss>
